@@ -1,7 +1,7 @@
 {
   "name": "automated-testing-app",
   "author": "Taylin Sparks",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Boilerplate for the Quality Assurance and Testing with Chai challenges",
   "main": "server.js",
   "scripts": {
